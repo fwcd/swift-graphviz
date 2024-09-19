@@ -3,7 +3,7 @@
 [![Build](https://github.com/fwcd/swift-graphviz/actions/workflows/build.yml/badge.svg)](https://github.com/fwcd/swift-graphviz/actions/workflows/build.yml)
 [![Docs](https://github.com/fwcd/swift-graphviz/actions/workflows/docs.yml/badge.svg)](https://fwcd.github.io/swift-graphviz/documentation/graphviz)
 
-A Swift package for working with [GraphViz][https://github.com/SwiftDocOrg/GraphViz].
+A Swift package for working with [GraphViz](https://github.com/SwiftDocOrg/GraphViz).
 
 This project is a maintained fork of [SwiftDocOrg/GraphViz](https://github.com/SwiftDocOrg/GraphViz). Credits to [@mattt](https://twitter.com/mattt) for creating this awesome library!
 
