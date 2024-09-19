@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2024-09-19
+
+- Added Swift 6 support
+
 ## [0.4.1] - 2021-05-03
 
 ### Added
@@ -129,7 +133,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release.
 
-[unreleased]: https://github.com/fwcd/swift-graphviz/compare/v0.4.1...main
+[unreleased]: https://github.com/fwcd/swift-graphviz/compare/v0.5.0...main
+[0.5.0]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.5.0
 [0.4.1]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.4.1
 [0.4.0]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.4.0
 [0.3.0]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.3.0
