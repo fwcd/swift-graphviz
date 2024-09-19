@@ -9,7 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.5.0] - 2024-09-19
 
-- Added Swift 6 support
+### Added
+
+- Added support for Swift 6
 
 ## [0.4.1] - 2021-05-03
 

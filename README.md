@@ -112,8 +112,8 @@ let package = Package(
   name: "YourProject",
   dependencies: [
     .package(
-        url: "https://github.com/SwiftDocOrg/GraphViz",
-        from: "0.4.1"
+        url: "https://github.com/fwcd/swift-graphviz.git",
+        from: "0.5.0"
     ),
   ]
 )
@@ -123,9 +123,11 @@ Add `GraphViz` as a dependency to your target(s):
 
 ```swift
 targets: [
-.target(
-    name: "YourTarget",
-    dependencies: ["GraphViz"]),
+    .target(
+        name: "YourTarget",
+        dependencies: ["GraphViz"]
+    ),
+]
 ```
 
 ## License
