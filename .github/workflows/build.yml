@@ -21,7 +21,11 @@ jobs:
     - uses: swift-actions/setup-swift@v2
       with:
         swift-version: ${{ matrix.swift }}
-    - name: Install system dependencies
+    - name: Install system dependencies (Linux)
+      if: runner.os == 'Linux'
+      run: sudo apt-get update && sudo apt-get install -y libxml2-dev graphviz-dev
+    - name: Install system dependencies (macOS)
+      if: runner.os == 'macOS'
       run: brew install graphviz
     - name: Build
       run: swift build
