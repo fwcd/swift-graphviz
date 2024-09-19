@@ -9,7 +9,7 @@ This project is a maintained fork of [SwiftDocOrg/GraphViz](https://github.com/S
 
 ## Requirements
 
-- Swift 5.2+
+- Swift 5.9+
 - GraphViz
 
 ## Usage
