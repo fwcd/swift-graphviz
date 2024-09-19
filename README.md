@@ -1,9 +1,11 @@
 # GraphViz
 
-![CI][ci badge]
-[![Documentation][documentation badge]][documentation]
+![CI](https://github.com/fwcd/swift-graphviz/workflows/CI/badge.svg)
+![Documentation](https://github.com/fwcd/swift-graphviz/workflows/Documentation/badge.svg)
 
-A Swift package for working with [GraphViz][graphviz].
+A Swift package for working with [GraphViz][https://github.com/SwiftDocOrg/GraphViz].
+
+This project is a maintained fork of [SwiftDocOrg/GraphViz](https://github.com/SwiftDocOrg/GraphViz). Credits to [@mattt](https://twitter.com/mattt) for creating this awesome library!
 
 ## Requirements
 
@@ -129,12 +131,3 @@ targets: [
 ## License
 
 MIT
-
-## Contact
-
-Mattt ([@mattt](https://twitter.com/mattt))
-
-[graphviz]: https://graphviz.org
-[ci badge]: https://github.com/SwiftDocOrg/GraphViz/workflows/CI/badge.svg
-[documentation badge]: https://github.com/SwiftDocOrg/GraphViz/workflows/Documentation/badge.svg
-[documentation]: https://github.com/SwiftDocOrg/GraphViz/wiki
