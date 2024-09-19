@@ -1,7 +1,7 @@
 # GraphViz
 
-![CI](https://github.com/fwcd/swift-graphviz/workflows/CI/badge.svg)
-![Documentation](https://github.com/fwcd/swift-graphviz/workflows/Documentation/badge.svg)
+[![Build](https://github.com/fwcd/swift-graphviz/actions/workflows/build.yml/badge.svg)](https://github.com/fwcd/swift-graphviz/actions/workflows/build.yml)
+[![Docs](https://github.com/fwcd/swift-graphviz/actions/workflows/docs.yml/badge.svg)](https://fwcd.github.io/swift-graphviz/documentation/graphviz)
 
 A Swift package for working with [GraphViz][https://github.com/SwiftDocOrg/GraphViz].
 
