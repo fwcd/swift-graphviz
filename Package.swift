@@ -29,7 +29,8 @@ let package = Package(
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
         .library(
             name: "GraphViz",
-            targets: ["GraphViz"]),
+            targets: ["GraphViz"]
+        ),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -38,9 +39,11 @@ let package = Package(
     targets: systemLibraries + [
         .target(
             name: "GraphViz",
-            dependencies: ["Clibgraphviz"]),
+            dependencies: ["Clibgraphviz"]
+        ),
         .testTarget(
             name: "GraphVizTests",
-            dependencies: ["GraphViz"]),
+            dependencies: ["GraphViz"]
+        ),
     ]
 )
