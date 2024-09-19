@@ -125,7 +125,9 @@ Add `GraphViz` as a dependency to your target(s):
 targets: [
     .target(
         name: "YourTarget",
-        dependencies: ["GraphViz"]
+        dependencies: [
+            .product(name: "GraphViz", package: "swift-graphviz"),
+        ]
     ),
 ]
 ```
