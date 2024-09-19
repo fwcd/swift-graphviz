@@ -129,16 +129,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release.
 
-[unreleased]: https://github.com/SwiftDocOrg/GraphViz/compare/0.4.1...main
-[0.4.1]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.4.1
-[0.4.0]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.4.0
-[0.3.0]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.3.0
-[0.2.0]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.2.0
-[0.1.3]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.1.3
-[0.1.2]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.1.2
-[0.1.1]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.1.1
-[0.1.0]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.1.0
-[0.0.4]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.0.4
-[0.0.3]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.0.3
-[0.0.2]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.0.2
-[0.0.1]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.0.1
+[unreleased]: https://github.com/fwcd/swift-graphviz/compare/v0.4.1...main
+[0.4.1]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.4.1
+[0.4.0]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.4.0
+[0.3.0]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.3.0
+[0.2.0]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.2.0
+[0.1.3]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.1.3
+[0.1.2]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.1.2
+[0.1.1]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.1.1
+[0.1.0]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.1.0
+[0.0.4]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.0.4
+[0.0.3]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.0.3
+[0.0.2]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.0.2
+[0.0.1]: https://github.com/fwcd/swift-graphviz/releases/tag/v0.0.1
